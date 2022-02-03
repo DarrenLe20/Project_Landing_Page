@@ -1,2 +1,2 @@
 # Project_Landing_Page
-Create a landing page with HTML and CSS 
+A project to experiment with combining HTML and CSS as well as using basic types of media in a website
